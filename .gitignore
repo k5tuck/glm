@@ -56,6 +56,10 @@ build*
 
 /.vs
 /.vscode
+*.vcxproj*
 /CMakeSettings.json
 .DS_Store
 *.swp
+
+bin
+bin-int
